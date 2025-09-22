@@ -1,14 +1,5 @@
 # React + Vite
 
-# Install ReactJS + Vite
-npm create vite@latest my-project
-
-# Install Tailwind css
-npm install tailwindcss @tailwindcss/vite
-
-# Install npn
-npn install
-
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
